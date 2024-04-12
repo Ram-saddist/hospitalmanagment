@@ -1,0 +1,26 @@
+.form-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  .body-page{
+    background-color: rgb(15 23 42 );
+    -webkit-box-shadow:0px 0px 86px 39px rgba(217,46,255,0.78);
+    -moz-box-shadow: 0px 0px 86px 39px rgba(217,46,255,0.78);
+    box-shadow: 0px 0px 86px 39px rgba(217,46,255,0.78);
+  
+  }
+  .register-form {
+    border: 1px solid gray;
+    padding: 30px;
+  }
+  .text-headingColor{
+    color: black;
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  body .welcome-back2{
+    font-size: 45px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
